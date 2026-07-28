@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T10:49:41.551343+08:00",
-  "total_titles_processed": 669,
+  "generated_at": "2026-07-28T13:51:16.666101+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时47分 ~ 05时16分]"
+        },
+        {
+          "title": "内塔尼亚胡访美，会与特朗普聊啥？",
+          "url": "https://news.ifeng.com/c/8v6sJsiidDd",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 13时51分]"
+        },
+        {
+          "title": "特朗普向伊朗发出最后通牒",
+          "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 13时51分]"
         },
         {
           "title": "美国总统特朗普：我们要取消夏令时。",
@@ -39,28 +61,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时47分 ~ 05时16分]"
-        },
-        {
-          "title": "内塔尼亚胡访美，会与特朗普聊啥？",
-          "url": "https://news.ifeng.com/c/8v6sJsiidDd",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "特朗普向伊朗发出最后通牒",
-          "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
         },
         {
           "title": "美国总统特朗普谴责全美汽车工人联合会（UAW）的领导人Shawn Fain。",
@@ -105,9 +105,21 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 13时51分]"
+        },
+        {
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 13时51分]"
         },
         {
           "title": "美媒：特朗普政府接近敲定AI自愿审查框架",
@@ -127,7 +139,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -171,7 +183,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -207,17 +219,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
-        },
-        {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
         },
         {
           "title": "美国总统特朗普：有理由善待通用汽车。",
@@ -355,7 +356,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股",
@@ -381,6 +382,41 @@
           "time_info": "[01时47分 ~ 05时16分]"
         },
         {
+          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
+          "url": "https://wallstreetcn.com/articles/3778058",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 13时51分]"
+        },
+        {
+          "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
+          "url": "https://www.cls.cn/detail/2438385",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 13时51分]"
+        },
+        {
+          "title": "一文读懂：美股“芯片风暴”究竟是如何发生的？",
+          "url": "https://www.cls.cn/detail/2438605",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 13时51分]"
+        },
+        {
           "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
           "url": "https://www.cls.cn/detail/2438191",
           "source": "财联社热门",
@@ -391,17 +427,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时47分 ~ 10时49分]"
-        },
-        {
-          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
-          "url": "https://wallstreetcn.com/articles/3778058",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
         },
         {
           "title": "天弘股份（Celestica Inc.，多伦多股票代码CLS.CN）ADR美股盘后涨8%。 该公司二季度营收47亿美元，分析师预期43.9亿美元。 二季度调整后每股收益（EPS）为2.54美元，分析师预期2.30美元。 预计全年营收205亿美元，分析师预期192.8亿美元，公司原本预计190亿美元。 预计全年调整后EPS为11.30美元，分析师预期10.29美元，公司原本预计10.15美元。 预计三季度营收52.5亿-55.5亿美元，分析师预期50.1亿美元。 预计三季度调整后EPS为2.88-3.08美元，分析师预期2.68美元。",
@@ -415,17 +440,6 @@
           "time_info": "05时16分"
         },
         {
-          "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
-          "url": "https://www.cls.cn/detail/2438385",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
           "title": "美国中期选举进入百日倒计时！高盛：美股8月起将逐步感受冲击",
           "url": "https://www.cls.cn/detail/2438003",
           "source": "财联社热门",
@@ -437,6 +451,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时47分 ~ 05时16分]"
+        },
+        {
+          "title": "7月28日投资避雷针：美股费城半导体指数创5月20日以来收盘新低 英伟达跌约5%",
+          "url": "https://www.cls.cn/detail/2438430",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 13时51分]"
         },
         {
           "title": "周一（7月27日），美股行业ETF涨跌各异，半导体ETF收跌2.25%，能源业ETF跌2.11%，科技行业ETF、全球科技股指数ETF、银行业ETF至多跌0.9%。 生物科技指数ETF则涨0.1%，可选消费ETF涨1.31%，网络股指数ETF涨1.89%，全球航空业ETF涨2.89%。",
@@ -459,17 +484,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
-        },
-        {
-          "title": "7月28日投资避雷针：美股费城半导体指数创5月20日以来收盘新低 英伟达跌约5%",
-          "url": "https://www.cls.cn/detail/2438430",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
         },
         {
           "title": "金十图示：2026年07月27日（周一）美股热门股票行情一览（美股盘中）",
@@ -511,7 +525,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -577,7 +591,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         }
@@ -592,11 +606,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356554&amp;topic_name=%E7%9C%9F%E9%80%97%2CDeepSeek%E8%AF%B4%E8%A6%81%E5%8E%BB%E5%90%83%E9%A5%AD",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 10时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时47分 ~ 13时51分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
@@ -668,11 +683,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 10时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时47分 ~ 13时51分]"
         }
       ]
     },
