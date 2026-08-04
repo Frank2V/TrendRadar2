@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T19:28:13.012556+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2026-08-04T22:25:55.020946+08:00",
+  "total_titles_processed": 1425,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
@@ -42,6 +42,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时52分 ~ 16时44分]"
+        },
+        {
+          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时52分 ~ 22时25分]"
         },
         {
           "title": "“控制”格陵兰岛，特朗普罕见列出时间表",
@@ -144,29 +157,18 @@
           "time_info": "03时43分"
         },
         {
-          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时52分 ~ 19时28分]"
-        },
-        {
           "title": "美媒：因凡蒂诺向特朗普求助",
           "url": "https://www.douyin.com/hot/2596620",
           "source": "抖音",
           "ranks": [
             10,
             17,
-            8
+            8,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时52分 ~ 19时28分]"
+          "appearance_count": 5,
+          "time_info": "[13时52分 ~ 22时25分]"
         },
         {
           "title": "有史以来最大规模铜流入！7月20万吨铜运抵美国，市场等待特朗普铜关税裁决",
@@ -325,6 +327,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "曝国际足联主席求助特朗普",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E4%B8%BB%E5%B8%AD%E6%B1%82%E5%8A%A9%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "特朗普：与伊朗的谈判正在进行 将分两阶段推进",
@@ -506,7 +519,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -517,8 +530,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时52分 ~ 19时28分]"
+          "appearance_count": 6,
+          "time_info": "[10时52分 ~ 22时25分]"
         },
         {
           "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
@@ -661,6 +674,17 @@
           "time_info": "10时52分"
         },
         {
+          "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2445568",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "周一（8月3日），美股行业ETF多数收涨，全球航空业ETF涨4.44%，网络股指数ETF涨2.93%，可选消费ETF、科技行业ETF、全球科技股指数ETF至少涨1.36%，能源业ETF跌1.28%。",
           "url": "https://wallstreetcn.com/livenews/3144351",
           "source": "华尔街见闻-快讯",
@@ -689,7 +713,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -733,7 +757,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -788,7 +812,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -799,7 +823,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         }
@@ -869,8 +893,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时52分 ~ 19时28分]"
+          "appearance_count": 5,
+          "time_info": "[13时52分 ~ 22时25分]"
         },
         {
           "title": "DeepSeek斩杀线斩的是什么",
@@ -933,8 +957,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时44分 ~ 19时28分]"
+          "appearance_count": 4,
+          "time_info": "[16时44分 ~ 22时25分]"
         },
         {
           "title": "DeepSeek低价风暴打服硅谷",
@@ -972,11 +996,12 @@
             9,
             13,
             18,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时55分 ~ 19时28分]"
+          "appearance_count": 11,
+          "time_info": "[01时55分 ~ 22时25分]"
         },
         {
           "title": "OpenAI的CEO Altman被要求就AI安全事故向美国众议院介绍情况。",
@@ -1041,7 +1066,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -1082,7 +1107,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "周一（8月3日）纽约尾盘，ICE美元指数大致持平，报99.906点，日内交投区间为99.418-100.017点，亚太早盘低开低走、北京时间08:45刷新日低，之后持续震荡上扬。 彭博美元指数跌0.06%，报1206.06点，日内交投区间为1201.22-1207.21点。",
@@ -1118,6 +1143,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "北美科技软件股指数ETF涨2.9%，刷新6月4日以来盘中高位至100.23美元，7月24日以来持续反弹。",
+          "url": "https://wallstreetcn.com/livenews/3144798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         }
       ]
     },
