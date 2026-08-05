@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T12:14:30.195743+08:00",
-  "total_titles_processed": 870,
+  "generated_at": "2026-08-05T15:44:00.639705+08:00",
+  "total_titles_processed": 1052,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,18 @@
           "time_info": "[00时56分 ~ 06时17分]"
         },
         {
+          "title": "【早报】美股半导体、存储、光通信，集体爆发；油价大跌、黄金走强；SpaceX、AMD财报出炉；大基金三期出手！入股正芯半导体",
+          "url": "https://www.cls.cn/detail/2445802",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时08分 ~ 15时44分]"
+        },
+        {
           "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
           "url": "https://www.cls.cn/detail/2445568",
           "source": "财联社热门",
@@ -44,16 +56,15 @@
           "time_info": "[00时56分 ~ 08时08分]"
         },
         {
-          "title": "【早报】美股半导体、存储、光通信，集体爆发；油价大跌、黄金走强；SpaceX、AMD财报出炉；大基金三期出手！入股正芯半导体",
-          "url": "https://www.cls.cn/detail/2445802",
+          "title": "美股存储板块爆发！SK海力士ADR大涨逾8% 投行集体看涨",
+          "url": "https://www.cls.cn/detail/2445853",
           "source": "财联社热门",
           "ranks": [
-            2,
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时08分 ~ 12时14分]"
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 15时44分]"
         },
         {
           "title": "金十图示：2026年08月04日（周二）热门中概股行情一览（美股收盘）",
@@ -65,17 +76,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
-        },
-        {
-          "title": "美股存储板块爆发！SK海力士ADR大涨逾8% 投行集体看涨",
-          "url": "https://www.cls.cn/detail/2445853",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
         },
         {
           "title": "美股存储芯片指数初步收涨6.8%，费城半导体指数涨6.9%。 标普500指数初步收涨1.9%，科技板块涨4.4%，原材料、工业、金融板块至少涨1%，能源板块跌0.5%。 纳斯达克100指数初步收涨3.4%，成分股中，Palantir初步收涨超29%，Arm控股涨17.1%，美满电子涨13.3%，英特尔涨11.3%，闪迪涨10.7%，泰瑞达、Lumentum、拉姆研究、SpaceX至少涨超8%，Intuitive Surgical Inc.跌1.9%，核电股CEG跌2.1%，亚马逊跌2.3%跌幅第二大，Diamondback Energy跌3.4%。 卡特彼勒初步收涨6.1%，与思科、IBM、安进、高盛、英伟达、家得宝、Salesforce领跑道指成分股。",
@@ -264,13 +264,24 @@
           "time_info": "[00时56分 ~ 08时08分]"
         },
         {
+          "title": "特朗普不满坡度与外观，要求重建白宫停机坪",
+          "url": "https://news.ifeng.com/c/8vKyAhdi2cE",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 15时44分]"
+        },
+        {
           "title": "美国总统特朗普：事情似乎进展顺利，如果霍尔木兹海峡开放，汽油价格将会下降。",
           "url": "https://flash.jin10.com/detail/20260805115022056800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -292,7 +303,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -308,24 +319,13 @@
           "time_info": "02时42分"
         },
         {
-          "title": "特朗普不满坡度与外观，要求重建白宫停机坪",
-          "url": "https://news.ifeng.com/c/8vKyAhdi2cE",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
           "title": "美国总统特朗普：我在经济方面应该得个A+，食品和杂货的“价格都在下降。”",
           "url": "https://flash.jin10.com/detail/20260805114637062800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -336,7 +336,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -347,7 +347,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -369,7 +369,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -402,7 +402,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -446,7 +446,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -468,7 +468,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -479,7 +479,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         }
@@ -507,9 +507,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 15时44分]"
         },
         {
           "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
